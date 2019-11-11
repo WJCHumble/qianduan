@@ -81,6 +81,7 @@
 ### POST请求模拟表单提交
 	
 &nbsp;&nbsp;&nbsp;&nbsp;XMLHrrpRequest2级定义了FormData类型，用于表单序列化和创建与表单格式相同的数据。
+
 &nbsp;&nbsp;&nbsp;&nbsp;创建FormData对象方法1：
 ```
 	var data = new FormData();
