@@ -4,4 +4,4 @@
 
 # 关于我
 
-&nbsp;&nbsp;&nbsp;&nbsp;性别男，无名本科在校大四，无业，自学编程一年，学过Java、C语言、C#、PHP、JavaScript，目前深耕于前端（虽然刚刚起步）。
+&nbsp;&nbsp;&nbsp;&nbsp;性别男，无名本科在校大四，无业，自学编程一年，自学过Java、C语言、C#、PHP、JavaScript，目前深耕于前端（虽然刚刚起步）。
