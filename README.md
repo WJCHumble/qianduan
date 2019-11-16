@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;我的博客地址：[https://blog.csdn.net/qq_42049445](https://blog.csdn.net/qq_42049445)
 
 &nbsp;&nbsp;&nbsp;&nbsp;我的微信公众号：
- <div align=center> <img src="https://img-blog.csdnimg.cn/201911160938356.png"  width="600" /> </div>
+ <div align=center> <img src="https://img-blog.csdnimg.cn/201911160938356.png"  width="300" /> </div>
  
 &nbsp;&nbsp;&nbsp;&nbsp;我的邮箱：1957503379@qq.com
 
