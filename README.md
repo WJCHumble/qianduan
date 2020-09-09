@@ -12,7 +12,13 @@
 
 ### 哪里可以找到我？
 
-我的博客地址：[https://blog.csdn.net/qq_42049445](https://blog.csdn.net/qq_42049445)
+我的博客地址：
+
+[掘金](https://juejin.im/user/2823201592973527)
+
+[思否](https://segmentfault.com/u/wjchumble/articles)
+
+[CSDN](https://blog.csdn.net/qq_42049445)
 
 我的微信公众号：Code center
  
